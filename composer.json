@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ET_RussianLanguagePack",
+    "type": "magento-module",
+    "license": "ETWS-Free-License-(EFL1)",
+    "homepage": "",
+    "description": "Русский перевод для Magento Community Edition",
+    "authors": [
+    {
+        "name": "Jurij",
+        "email": "support@etwebsolutions.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
